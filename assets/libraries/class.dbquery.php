@@ -42,7 +42,6 @@ class DBConnection
 
 		$this->DBASE = $dbase;
 
-		echo $server;
 		$conn = mysql_connect($server,$user,$pass);
 
 		if(!$conn) {
