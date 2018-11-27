@@ -112,7 +112,7 @@
 
 							<a href="driver_wallet" class="<?=(isset($script) && $script == 'Rider Wallet')?'active':'';?>"><i class="fa fa-money" aria-hidden="true"></i><?=$langage_lbl['LBL_RIDER_WALLET'];?></a>
 
-						<? } ?>
+						<?php } ?>
 
 						<a href="logout"><i class="fa fa-power-off" aria-hidden="true"></i><?=$langage_lbl['LBL_HEADER_LOGOUT']; ?></a>
 
@@ -180,8 +180,6 @@
 
 		<?php } ?>
 
-            <!-- -->
-
 			<?php if($user != "") { 
 
 				
@@ -241,14 +239,6 @@
 				</div>
 
 			<?php } ?>
-
-            <!-- -->
-
-			<?php
-
-			}
-
-		?>
 
 		
 
