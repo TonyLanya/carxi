@@ -1,0 +1,41 @@
+[27-Mar-2017 02:59:41 America/Chicago] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home4/carxi/public_html/admin/add_booking.php on line 186
+[27-Mar-2017 03:01:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home4/carxi/public_html/admin/add_booking.php on line 186
+[27-Mar-2017 03:01:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home4/carxi/public_html/admin/add_booking.php on line 186
+[28-Mar-2017 06:25:38 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home4/carxi/public_html/admin/add_booking.php on line 226
+[28-Mar-2017 08:57:02 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home4/carxi/public_html/admin/vehicle_type_action.php on line 693
+[29-Mar-2017 05:18:24 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home4/carxi/public_html/admin/action_booking.php on line 2
+[29-Mar-2017 05:45:44 America/Chicago] PHP Fatal error:  Call to undefined function checkmemberemailphoneverification() in /home4/carxi/public_html/admin/action_booking.php on line 30
+[29-Mar-2017 05:48:24 America/Chicago] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/carxi/public_html/generalFunctions.php on line 5
+[29-Mar-2017 05:48:24 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home4/carxi/public_html/generalFunctions.php on line 5
+[29-Mar-2017 05:48:24 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home4/carxi/public_html/generalFunctions.php on line 5
+[29-Mar-2017 05:48:24 America/Chicago] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home4/carxi/public_html/generalFunctions.php on line 5
+[29-Mar-2017 05:48:24 America/Chicago] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home4/carxi/public_html/generalFunctions.php on line 5
+[29-Mar-2017 05:48:24 America/Chicago] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home4/carxi/public_html/generalFunctions.php on line 5
+[29-Mar-2017 05:48:24 America/Chicago] PHP Fatal error:  Call to a member function MySQLSelect() on null in /home4/carxi/public_html/generalFunctions.php on line 58
+[01-Apr-2017 02:08:27 America/Chicago] PHP Parse error:  syntax error, unexpected '.10' (T_DNUMBER) in /home4/carxi/public_html/admin/add_booking.php on line 215
+[01-Apr-2017 02:58:26 America/Chicago] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home4/carxi/public_html/admin/add_booking.php on line 210
+[01-Apr-2017 02:59:16 America/Chicago] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home4/carxi/public_html/admin/add_booking.php on line 210
+[01-Apr-2017 02:59:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET), expecting '(' in /home4/carxi/public_html/admin/add_booking.php on line 210
+[01-Apr-2017 06:10:20 America/Chicago] PHP Parse error:  syntax error, unexpected '?>' in /home4/carxi/public_html/admin/add_booking.php on line 148
+[01-Apr-2017 06:11:51 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/carxi/public_html/admin/add_booking.php on line 148
+[01-Apr-2017 06:12:02 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/carxi/public_html/admin/add_booking.php on line 148
+[01-Apr-2017 06:13:56 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home4/carxi/public_html/admin/add_booking.php on line 148
+[01-Apr-2017 06:14:18 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home4/carxi/public_html/admin/add_booking.php on line 148
+[01-Apr-2017 07:05:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/carxi/public_html/admin/add_booking.php on line 164
+[01-Apr-2017 07:06:27 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home4/carxi/public_html/admin/add_booking.php on line 164
+[25-Jun-2018 20:47:43 America/Chicago] PHP Warning:  include_once(../common.php): failed to open stream: No such file or directory in /home4/carxi/public_html/admin/index.php on line 2
+[25-Jun-2018 20:47:43 America/Chicago] PHP Warning:  include_once(): Failed opening '../common.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/carxi/public_html/admin/index.php on line 2
+[25-Jun-2018 20:47:43 America/Chicago] PHP Warning:  require_once(TPATH_CLASSclass.general_admin.php): failed to open stream: No such file or directory in /home4/carxi/public_html/admin/index.php on line 6
+[25-Jun-2018 20:47:43 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'TPATH_CLASSclass.general_admin.php' (include_path='.:/opt/php56/lib/php') in /home4/carxi/public_html/admin/index.php on line 6
+[25-Jun-2018 20:48:00 America/Chicago] PHP Warning:  include_once(../common.php): failed to open stream: No such file or directory in /home4/carxi/public_html/admin/index.php on line 2
+[25-Jun-2018 20:48:00 America/Chicago] PHP Warning:  include_once(): Failed opening '../common.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/carxi/public_html/admin/index.php on line 2
+[25-Jun-2018 20:48:00 America/Chicago] PHP Warning:  require_once(TPATH_CLASSclass.general_admin.php): failed to open stream: No such file or directory in /home4/carxi/public_html/admin/index.php on line 6
+[25-Jun-2018 20:48:00 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'TPATH_CLASSclass.general_admin.php' (include_path='.:/opt/php56/lib/php') in /home4/carxi/public_html/admin/index.php on line 6
+[25-Jun-2018 20:48:04 America/Chicago] PHP Warning:  include_once(../common.php): failed to open stream: No such file or directory in /home4/carxi/public_html/admin/index.php on line 2
+[25-Jun-2018 20:48:04 America/Chicago] PHP Warning:  include_once(): Failed opening '../common.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/carxi/public_html/admin/index.php on line 2
+[25-Jun-2018 20:48:04 America/Chicago] PHP Warning:  require_once(TPATH_CLASSclass.general_admin.php): failed to open stream: No such file or directory in /home4/carxi/public_html/admin/index.php on line 6
+[25-Jun-2018 20:48:04 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'TPATH_CLASSclass.general_admin.php' (include_path='.:/opt/php56/lib/php') in /home4/carxi/public_html/admin/index.php on line 6
+[25-Jun-2018 20:48:06 America/Chicago] PHP Warning:  include_once(../common.php): failed to open stream: No such file or directory in /home4/carxi/public_html/admin/index.php on line 2
+[25-Jun-2018 20:48:06 America/Chicago] PHP Warning:  include_once(): Failed opening '../common.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home4/carxi/public_html/admin/index.php on line 2
+[25-Jun-2018 20:48:06 America/Chicago] PHP Warning:  require_once(TPATH_CLASSclass.general_admin.php): failed to open stream: No such file or directory in /home4/carxi/public_html/admin/index.php on line 6
+[25-Jun-2018 20:48:06 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'TPATH_CLASSclass.general_admin.php' (include_path='.:/opt/php56/lib/php') in /home4/carxi/public_html/admin/index.php on line 6
