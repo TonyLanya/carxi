@@ -106,40 +106,40 @@ nav ul#listMenu{ position:fixed;}
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;}
 .get-there-inner span a:hover{ color:#ff7e00; border-color:#ff7e00;}
-.get-there-inner span .active{ color:#ff7e00; border-color:#ff7e00;}
+.get-there-inner span .active{ color:#2F64B2; border-color:#2F64B2;}
 
 .home-hero-page{ margin:40px 0 0; padding:0px; float:left; width:100%;}
 .home-hero-page-left{ margin:0px; padding:0px; float:left; background:url(../img/home-banner-img.jpg) no-repeat; min-height:664px; width:86.7%;
 background-size:cover; background-position:center top;}
-.home-hero-page-left-text{ margin:40% 0 0; padding:0px; float:left; width:734px; background:#ff7e00; height:105px; position:relative;}
+.home-hero-page-left-text{ margin:40% 0 0; padding:0px; float:left; width:734px; background:#2F64B2; height:105px; position:relative;}
 .home-hero-page-left-text span{ margin:0 0 0 14px; padding:0px; float:left; width:98%; color:#FFFFFF; font-size:18px; color:#FFFFFF; font-family: 'maven_promedium'; font-weight:500; line-height:35px;}
 .home-hero-page-left-text span p{ margin:0px; padding:0px; height:105px; vertical-align:middle; display:table-cell; width:570px;}
 .home-hero-page-left-text span a{border:1px solid #fff; color: #FFFFFF; text-align: center; font-size:15px; margin:30px 15px 0 0; padding:12px 35px 12px 15px; transition: all 0.5s; cursor: pointer; text-transform:uppercase; float:right; line-height:normal; font-family: 'maven_promedium';}
-.home-hero-page-left-text span a:hover{border-color:#000000;}
+.home-hero-page-left-text span a:hover{border-color:#ff7e00;}
 .home-hero-page-left-text span a em {cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-style:normal;}
 .home-hero-page-left-text span a em:before {content: '\00bb'; position:absolute; opacity:0; bottom:0; right:-26px; transition: 0.5s; font-size:25px; line-height:22px;}
 .home-hero-page-left-text span a em:before{opacity:1; right:-26px;}
 .home-hero-page-left-text span a:hover em {padding-right:0;}
-.home-hero-page-left-text span a:hover em{ color:#000000;}
+.home-hero-page-left-text span a:hover em{ color:#ff7e00;}
 .home-hero-page-left-text span a em:after {position:absolute; opacity:0; top:0; right:-26px; transition: 0.5s; font-size:25px; color:#000000; line-height:29px;}
-.home-hero-page-left-text span a:hover em:after {opacity:1; color:#000000;}
+.home-hero-page-left-text span a:hover em:after {opacity:1; color:#ff7e00;}
 
 .home-hero-page-right{ margin:0px; padding:0px; float:right; background:url(../img/home-img1.jpg) no-repeat; min-height:664px; width:12%;
 background-size:cover; background-position:center top; position:relative;}
-.home-hero-page-right-text{ margin:20% 0 0; padding:0px; float:left; width:315px; background:#ff7e00; height:195px; position:absolute; top:0; right:0;}
+.home-hero-page-right-text{ margin:20% 0 0; padding:0px; float:left; width:315px; background:#2F64B2; height:195px; position:absolute; top:0; right:0;}
 .home-hero-page-right-text span{ margin:30px 0 0 25px; padding:0px; float:left; width:85%; color:#FFFFFF; font-size:20px; color:#FFFFFF; font-family: 'maven_promedium'; font-weight:500; line-height:35px;}
 /*.home-hero-page-right-text span{ margin:34px 0 0 35px; padding:0px; float:left; width:85%; color:#FFFFFF; font-size:23px; color:#FFFFFF; font-family: 'maven_promedium'; font-weight:500; line-height:35px;}*/
 .home-hero-page-right-text span p{ margin:0 0 10px; padding:0px; float:left; width:100%; line-height:30px;}
 
 .home-hero-page-right-text span a{border:1px solid #fff; color: #FFFFFF; text-align: center; font-size:15px; margin:0px; padding:12px 35px 12px 15px; transition: all 0.5s; cursor: pointer; text-transform:uppercase; float:left; line-height:normal; font-family: 'maven_promedium';}
-.home-hero-page-right-text span a:hover{border-color:#000000;}
+.home-hero-page-right-text span a:hover{border-color:#ff7e00;}
 .home-hero-page-right-text span a em {cursor: pointer; display: inline-block; position: relative; transition: 0.5s; font-style:normal;}
 .home-hero-page-right-text span a em:before {content: '\00bb'; position:absolute; opacity:0; bottom:0; right:-26px; transition: 0.5s; font-size:25px; line-height:22px;}
 .home-hero-page-right-text span a em:before{opacity:1; right:-26px;}
 .home-hero-page-right-text span a:hover em {padding-right:0;}
-.home-hero-page-right-text span a:hover em{ color:#000000; border-color:#000000;}
+.home-hero-page-right-text span a:hover em{ color:#ff7e00; border-color:#ff7e00;}
 .home-hero-page-right-text span a em:after {position:absolute; opacity:0; top:0; right:-26px; transition: 0.5s; font-size:25px; color:#000000; line-height:29px;}
-.home-hero-page-right-text span a:hover em:after {opacity:1; color:#000000;}
+.home-hero-page-right-text span a:hover em:after {opacity:1; color:#ff7e00;}
 
 /**************/
 
@@ -327,7 +327,7 @@ z-index:0; color:#fff; font-size:15px; }
 .footer-box2 ul:last-child{ width:30%;}
 .footer-box2 ul li{ margin:0px; padding:0px; float:left; width:100%; line-height:30px;}
 .footer-box2 ul li a{ margin:0px; padding:0 0 0 18px; float:left; color:#FFFFFF; font-size:15px; font-family: 'maven_promedium'; background:url(../img/org-point.png) no-repeat scroll left 14px;}
-.footer-box2 ul li a:hover{ color:#ff7e00;}
+.footer-box2 ul li a:hover{ color:#2F64B2;}
 .footer-box3{ margin:40px 0 0; padding:0px; float:right; width:310px;}
 .footer-box3 span{ margin:0 10px 0 0; padding:0px; float:right; width:auto;}
 
@@ -369,12 +369,12 @@ min-height:500px;}
 .contact-form b:last-child{ width:100%;}
 .contact-form b .contact-input{ margin:0px; padding:0 0 0 10px; float:left; width:97%; height:46px; border:1px solid #d4d4d4; color:#333333; font-size:14px; border-radius:3px;}
 .contact-form b .contact-textarea{ margin:0px; padding:10px 0 0 10px; float:left; width:97%; font-family:Arial, Helvetica, sans-serif; color:#757575; border:1px solid #d4d4d4; font-size:14px; border-radius:3px; height:164px;}
-.contact-form b .submit-but{ margin:15px 0 0; padding:0px; float:right; border:none; background:#ff7e00; color:#FFFFFF; width:172px; height:49px; text-align:center; line-height:33px; border-radius:3px; font-size:18px; font-family: 'maven_promedium';
+.contact-form b .submit-but{ margin:15px 0 0; padding:0px; float:right; border:none; background:#2F64B2; color:#FFFFFF; width:172px; height:49px; text-align:center; line-height:33px; border-radius:3px; font-size:18px; font-family: 'maven_promedium';
  -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;}
-.contact-form b .submit-but:hover{ background:#007d76; cursor:pointer;}
+.contact-form b .submit-but:hover{ background:#ff7e00; cursor:pointer;}
 
 
 /*........login page...............*/
@@ -384,13 +384,13 @@ min-height:500px;}
 .login-form-left b{ margin:0px; padding:0px; float:left; width:100%;}
 .login-form-left b .login-input{ margin:0 0 15px; padding:0 0 0 10px; float:left; width:97%; height:44px; border:1px solid #d4d4d4; color:#333333; font-size:14px; border-radius:3px;}
 .login-form-left b label{ margin:0 0 7px 0; padding:0; float:left; width:100%; color:#666; font-size:14px; font-weight:normal;}
-.login-form-left b .submit-but{ margin:10px 0 0; padding:0px; background:#ff7e00; color:#FFFFFF; font-size:19px; width:172px; height:49px; line-height:35px; text-align:center;
+.login-form-left b .submit-but{ margin:10px 0 0; padding:0px; background:#2F64B2; color:#FFFFFF; font-size:19px; width:172px; height:49px; line-height:35px; text-align:center;
 border:none; border-radius:3px; font-family: 'maven_promedium'; float:left;
  -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;}
-.login-form-left b .submit-but:hover{ background:#007d76; cursor:pointer;}
+.login-form-left b .submit-but:hover{ background:#ff7e00; cursor:pointer;}
 .login-form-left b a{ margin:27px 0 0; padding:0px; float:right; color:#007d76; font-size:14px;}
 .login-form-left b a:hover{ color:#333;}
 
@@ -665,28 +665,28 @@ font-weight:600; border-radius:3px;
 .sign-in-driver h3:after{background:#ff7e00; top:0; content:""; height:2px; left:0; position:absolute; width:40px; float:left;}
 .sign-in-driver p{ margin:0px; padding:0px; float:left; width:70%; font-size:16px; color:#000000; line-height:27px;}
 .sign-in-driver span{ margin:12px 0 0; padding:0px; float:left; width:100%;}
-.sign-in-driver span a{ margin:35px 0 0; padding:9px 18px 9px 12px; float:left; background:#ff7e00; color:#FFFFFF; font-size:15px; text-transform:uppercase; 
+.sign-in-driver span a{ margin:35px 0 0; padding:9px 18px 9px 12px; float:left; background:#2F64B2; color:#FFFFFF; font-size:15px; text-transform:uppercase; 
 font-family: 'maven_promedium';
  -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;}
 .sign-in-driver span a img{ margin:0px; padding:0 0 0 20px;}
-.sign-in-driver span a:hover{ background:#019890;}
+.sign-in-driver span a:hover{ background:#ff7e00;}
 
 .sign-in-rider{ margin:0px; padding:0px; float:right; width:46%;}
 .sign-in-rider h3{ margin:0 0 20px; padding:20px 0 0; float:left; width:100%; font-size:30px; color:#000000; position:relative;}
 .sign-in-rider h3:after{background:#ff7e00; top:0; content:""; height:2px; left:0; position:absolute; width:40px; float:left;}
 .sign-in-rider p{ margin:0px; padding:0px; float:left; width:70%; font-size:16px; color:#000000; line-height:27px;}
 .sign-in-rider span{ margin:12px 0 0; padding:0px; float:left; width:100%;}
-.sign-in-rider span a{ margin:35px 0 0; padding:9px 18px 9px 12px; float:left; background:#ff7e00; color:#FFFFFF; font-size:15px; text-transform:uppercase; 
+.sign-in-rider span a{ margin:35px 0 0; padding:9px 18px 9px 12px; float:left; background:#2F64B2; color:#FFFFFF; font-size:15px; text-transform:uppercase; 
 font-family: 'maven_promedium';
  -webkit-transition: all 0.5s ease-in-out;
   -moz-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;}
 .sign-in-rider span a img{ margin:0px; padding:0 0 0 20px;}
-.sign-in-rider span a:hover{ background:#019890;}
+.sign-in-rider span a:hover{ background:#ff7e00;}
 
 /*************driver-add-vehicle-page************/
 
